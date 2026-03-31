@@ -1,0 +1,15 @@
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\bin\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.exe
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\bin\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.deps.json
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\bin\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.runtimeconfig.json
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\bin\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.dll
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\bin\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.pdb
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.AssemblyInfoInputs.cache
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.AssemblyInfo.cs
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.csproj.CoreCompileInputs.cache
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.sourcelink.json
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.dll
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\refint\Aurel Adestira Salsabila Modul5_103082400041.dll
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.pdb
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\Aurel Adestira Salsabila Modul5_103082400041.genruntimeconfig.cache
+D:\tugas_alpro\Semester4\Aurel Adestira Salsabila Modul5_103082400041\Aurel Adestira Salsabila Modul5_103082400041\obj\Debug\net10.0\ref\Aurel Adestira Salsabila Modul5_103082400041.dll

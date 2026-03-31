@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aurel Adestira Salsabila Modul5_103082400041")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cb9ada15ec8bdf9509a64d4e9331126f0cdda64")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aurel Adestira Salsabila Modul5_103082400041")]
